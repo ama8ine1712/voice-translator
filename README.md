@@ -1,5 +1,9 @@
 # Voice Translator (MVP)
 
+[![Stars](https://img.shields.io/github/stars/ama8ine1712/voice-translator?style=flat&color=70a5fd)](https://github.com/ama8ine1712/voice-translator/stargazers)
+[![Issues](https://img.shields.io/github/issues/ama8ine1712/voice-translator?style=flat&color=ff7b72)](https://github.com/ama8ine1712/voice-translator/issues)
+![Theme](https://img.shields.io/badge/theme-tokyonight-1a1b27?style=flat)
+
 An efficient speech-to-speech translator that can switch accents and gender using neural TTS. Pipeline: Mic audio → VAD segmentation → ASR (Whisper) → Translation → TTS (ElevenLabs/Azure).
 
 ## Setup (Windows)
